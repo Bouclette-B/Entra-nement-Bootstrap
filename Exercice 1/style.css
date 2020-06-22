@@ -1,0 +1,15 @@
+[class^="col"] {
+    height: 50px;
+}
+
+.verte {
+    background-color: greenyellow;
+}
+
+.rose {
+    background-color: hotpink;
+}
+
+.bleue {
+    background-color: aqua;
+}
